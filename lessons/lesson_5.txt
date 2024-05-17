@@ -1,0 +1,6 @@
+### Data Structures
+
+- Lists: Ordered, mutable collections of items defined using square brackets [].
+- Tuples: Ordered, immutable collections of items defined using parentheses ().
+- Dictionaries: Unordered collections of key-value pairs defined using curly braces {}.
+- Sets: Unordered collections of unique items defined using the set() function or curly braces {}.

@@ -1,0 +1,5 @@
+### File Handling
+
+- Reading and Writing Files: Use open(), read(), write(), and close() functions to work with files.
+- Working with CSV and JSON Files: Use the csv and json modules to handle CSV and JSON file formats.
+- File Modes and Error Handling: Modes like 'r', 'w', 'a' define how files are opened, and error handling ensures smooth file operations.

@@ -1,0 +1,6 @@
+### Advanced Topics
+
+- Decorators and Generators: Decorators modify the behavior of functions, and generators produce sequences of values.
+- Context Managers: Use the with statement to manage resources like files.
+- Multithreading and Multiprocessing: Techniques to run code concurrently and in parallel for better performance.
+- Working with APIs: Use the requests module to interact with web APIs.

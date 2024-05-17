@@ -1,0 +1,5 @@
+### Exception Handling
+
+- Understanding Exceptions: Exceptions are errors that occur during the execution of a program.
+- Try, Except, Finally: Use try-except blocks to handle exceptions and finally to execute code regardless of an exception.
+- Creating Custom Exceptions: Define custom exceptions by inheriting from the Exception class.

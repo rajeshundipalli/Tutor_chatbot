@@ -1,0 +1,5 @@
+### Control Flow
+
+- Loops: Python supports for and while loops to iterate over sequences and execute code multiple times.
+- Break and Continue Statements: Use break to exit a loop and continue to skip the current iteration.
+- List Comprehensions: A concise way to create lists using a single line of code.

@@ -1,0 +1,6 @@
+### Introduction to Python
+
+- Overview of Python: Python is a high-level, interpreted programming language known for its readability and versatility.
+- Installing Python: Python can be installed from the official website python.org. Ensure you download the version appropriate for your operating system.
+- Running Your First Python Program: Use an IDE like PyCharm or VSCode, or simply use the command line to run your first 'Hello, World!' program.
+- Understanding Python Syntax: Python uses indentation to define blocks of code, which is different from many other programming languages.

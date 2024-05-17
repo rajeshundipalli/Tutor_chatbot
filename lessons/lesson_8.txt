@@ -1,0 +1,6 @@
+### Object-Oriented Programming
+
+- Classes and Objects: Define classes using the class keyword and create objects as instances of classes.
+- Inheritance: Derive new classes from existing classes using inheritance.
+- Polymorphism: Use methods in different ways through method overriding and overloading.
+- Encapsulation: Restrict access to methods and variables using private and public access specifiers.

@@ -1,0 +1,5 @@
+### Libraries and Frameworks
+
+- Introduction to Standard Libraries: Python comes with a rich standard library that includes modules for various tasks.
+- Using Popular Libraries: Libraries like NumPy, Pandas, and Matplotlib are widely used for data manipulation and visualization.
+- Overview of Web Frameworks: Frameworks like Django and Flask are used to develop web applications.

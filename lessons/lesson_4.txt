@@ -1,0 +1,6 @@
+### Functions and Modules
+
+- Defining Functions: Use the def keyword to define functions in Python.
+- Function Arguments and Return Values: Functions can take arguments and return values using the return statement.
+- Lambda Functions: Anonymous functions defined using the lambda keyword.
+- Importing and Using Modules: Use the import statement to include modules in your code.

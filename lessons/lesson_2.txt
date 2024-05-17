@@ -1,0 +1,6 @@
+### Python Basics
+
+- Variables and Data Types: Python supports various data types including integers, floats, strings, and booleans.
+- Basic Operators: Operators in Python include arithmetic (+, -, *, /), comparison (==, !=, >, <), and logical (and, or, not) operators.
+- Input and Output: Use the input() function to get user input and the print() function to display output.
+- Conditional Statements: Use if, else, and elif to execute code based on conditions.
